@@ -1,0 +1,26 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.wrapper{
+	display: flex;
+	background-color: rgb(2, 8, 59);
+	width: 100vw;
+	height: 100vh;
+	align-items: center;
+	justify-content: center;
+	font-family: sans-serif;
+	flex-direction: column;
+	align-items: center;
+	gap: 1rem;
+	
+}
+
+h2{
+	font-size: 2rem;
+	color: white;
+	text-align: center;
+}
+
